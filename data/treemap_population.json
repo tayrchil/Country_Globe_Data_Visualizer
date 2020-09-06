@@ -1,0 +1,946 @@
+{
+   "name": "Population",
+   "children": [   
+{"name": "Asia (Near East)", "type": "continent", "children": [
+      {
+         "name": "Afghanistan ",
+         "value": 31056997
+      },
+      {
+         "name": "Bangladesh ",
+         "value": 147365352
+      },
+      {
+         "name": "Bhutan ",
+         "value": 2279723
+      },
+      {
+         "name": "Brunei ",
+         "value": 379444
+      },
+      {
+         "name": "Burma ",
+         "value": 47382633
+      },
+      {
+         "name": "Cambodia ",
+         "value": 13881427
+      },
+      {
+         "name": "China ",
+         "value": 1313973713
+      },
+      {
+         "name": "East Timor ",
+         "value": 1062777
+      },
+      {
+         "name": "Hong Kong ",
+         "value": 6940432
+      },
+      {
+         "name": "India ",
+         "value": 1095351995
+      },
+      {
+         "name": "Indonesia ",
+         "value": 245452739
+      },
+      {
+         "name": "Iran ",
+         "value": 68688433
+      },
+      {
+         "name": "Japan ",
+         "value": 127463611
+      },
+      {
+         "name": "Korea, North ",
+         "value": 23113019
+      },
+      {
+         "name": "Korea, South ",
+         "value": 48846823
+      },
+      {
+         "name": "Laos ",
+         "value": 6368481
+      },
+      {
+         "name": "Macau ",
+         "value": 453125
+      },
+      {
+         "name": "Malaysia ",
+         "value": 24385858
+      },
+      {
+         "name": "Maldives ",
+         "value": 359008
+      },
+      {
+         "name": "Mongolia ",
+         "value": 2832224
+      },
+      {
+         "name": "Nepal ",
+         "value": 28287147
+      },
+      {
+         "name": "Pakistan ",
+         "value": 165803560
+      },
+      {
+         "name": "Philippines ",
+         "value": 89468677
+      },
+      {
+         "name": "Singapore ",
+         "value": 4492150
+      },
+      {
+         "name": "Sri Lanka ",
+         "value": 20222240
+      },
+      {
+         "name": "Taiwan ",
+         "value": 23036087
+      },
+      {
+         "name": "Thailand ",
+         "value": 64631595
+      },
+      {
+         "name": "Vietnam ",
+         "value": 84402966
+      }
+   ]
+},
+   {"name": "Baltics", "type": "continent", "children": [
+      {
+         "name": "Estonia ",
+         "value": 1324333
+      },
+      {
+         "name": "Latvia ",
+         "value": 2274735
+      },
+      {
+         "name": "Lithuania ",
+         "value": 3585906
+      }
+   ]
+},
+   {"name": "C.W. Of Indian States", "type": "continent", "children": [
+      {
+         "name": "Armenia ",
+         "value": 2976372
+      },
+      {
+         "name": "Azerbaijan ",
+         "value": 7961619
+      },
+      {
+         "name": "Belarus ",
+         "value": 10293011
+      },
+      {
+         "name": "Georgia ",
+         "value": 4661473
+      },
+      {
+         "name": "Kazakhstan ",
+         "value": 15233244
+      },
+      {
+         "name": "Kyrgyzstan ",
+         "value": 5213898
+      },
+      {
+         "name": "Moldova ",
+         "value": 4466706
+      },
+      {
+         "name": "Russia ",
+         "value": 142893540
+      },
+      {
+         "name": "Tajikistan ",
+         "value": 7320815
+      },
+      {
+         "name": "Turkmenistan ",
+         "value": 5042920
+      },
+      {
+         "name": "Ukraine ",
+         "value": 46710816
+      },
+      {
+         "name": "Uzbekistan ",
+         "value": 27307134
+      }
+   ]
+},
+   {"name": "Eastern Europe", "type": "continent", "children": [
+      {
+         "name": "Albania ",
+         "value": 3581655
+      },
+      {
+         "name": "Bosnia & Herzegovina ",
+         "value": 4498976
+      },
+      {
+         "name": "Bulgaria ",
+         "value": 7385367
+      },
+      {
+         "name": "Croatia ",
+         "value": 4494749
+      },
+      {
+         "name": "Czech Republic ",
+         "value": 10235455
+      },
+      {
+         "name": "Hungary ",
+         "value": 9981334
+      },
+      {
+         "name": "Macedonia ",
+         "value": 2050554
+      },
+      {
+         "name": "Poland ",
+         "value": 38536869
+      },
+      {
+         "name": "Romania ",
+         "value": 22303552
+      },
+      {
+         "name": "Serbia ",
+         "value": 9396411
+      },
+      {
+         "name": "Slovakia ",
+         "value": 5439448
+      },
+      {
+         "name": "Slovenia ",
+         "value": 2010347
+      }
+   ]
+},
+   {"name": "Latin Amer & Carib", "type": "continent", "children": [
+      {
+         "name": "Anguilla ",
+         "value": 13477
+      },
+      {
+         "name": "Antigua & Barbuda ",
+         "value": 69108
+      },
+      {
+         "name": "Argentina ",
+         "value": 39921833
+      },
+      {
+         "name": "Aruba ",
+         "value": 71891
+      },
+      {
+         "name": "Bahamas, The ",
+         "value": 303770
+      },
+      {
+         "name": "Barbados ",
+         "value": 279912
+      },
+      {
+         "name": "Belize ",
+         "value": 287730
+      },
+      {
+         "name": "Bolivia ",
+         "value": 8989046
+      },
+      {
+         "name": "Brazil ",
+         "value": 188078227
+      },
+      {
+         "name": "British Virgin Is. ",
+         "value": 23098
+      },
+      {
+         "name": "Cayman Islands ",
+         "value": 45436
+      },
+      {
+         "name": "Chile ",
+         "value": 16134219
+      },
+      {
+         "name": "Colombia ",
+         "value": 43593035
+      },
+      {
+         "name": "Costa Rica ",
+         "value": 4075261
+      },
+      {
+         "name": "Cuba ",
+         "value": 11382820
+      },
+      {
+         "name": "Dominica ",
+         "value": 68910
+      },
+      {
+         "name": "Dominican Republic ",
+         "value": 9183984
+      },
+      {
+         "name": "Ecuador ",
+         "value": 13547510
+      },
+      {
+         "name": "El Salvador ",
+         "value": 6822378
+      },
+      {
+         "name": "French Guiana ",
+         "value": 199509
+      },
+      {
+         "name": "Grenada ",
+         "value": 89703
+      },
+      {
+         "name": "Guadeloupe ",
+         "value": 452776
+      },
+      {
+         "name": "Guatemala ",
+         "value": 12293545
+      },
+      {
+         "name": "Guyana ",
+         "value": 767245
+      },
+      {
+         "name": "Haiti ",
+         "value": 8308504
+      },
+      {
+         "name": "Honduras ",
+         "value": 7326496
+      },
+      {
+         "name": "Jamaica ",
+         "value": 2758124
+      },
+      {
+         "name": "Martinique ",
+         "value": 436131
+      },
+      {
+         "name": "Mexico ",
+         "value": 107449525
+      },
+      {
+         "name": "Montserrat ",
+         "value": 9439
+      },
+      {
+         "name": "Netherlands Antilles ",
+         "value": 221736
+      },
+      {
+         "name": "Nicaragua ",
+         "value": 5570129
+      },
+      {
+         "name": "Panama ",
+         "value": 3191319
+      },
+      {
+         "name": "Paraguay ",
+         "value": 6506464
+      },
+      {
+         "name": "Peru ",
+         "value": 28302603
+      },
+      {
+         "name": "Puerto Rico ",
+         "value": 3927188
+      },
+      {
+         "name": "Saint Kitts & Nevis ",
+         "value": 39129
+      },
+      {
+         "name": "Saint Lucia ",
+         "value": 168458
+      },
+      {
+         "name": "Saint Vincent and the Grenadines ",
+         "value": 117848
+      },
+      {
+         "name": "Suriname ",
+         "value": 439117
+      },
+      {
+         "name": "Trinidad & Tobago ",
+         "value": 1065842
+      },
+      {
+         "name": "Turks & Caicos Is ",
+         "value": 21152
+      },
+      {
+         "name": "Uruguay ",
+         "value": 3431932
+      },
+      {
+         "name": "Venezuela ",
+         "value": 25730435
+      },
+      {
+         "name": "Virgin Islands ",
+         "value": 108605
+      }
+   ]
+},
+   {"name": "Near East", "type": "continent", "children": [
+      {
+         "name": "Bahrain ",
+         "value": 698585
+      },
+      {
+         "name": "Cyprus ",
+         "value": 784301
+      },
+      {
+         "name": "Gaza Strip ",
+         "value": 1428757
+      },
+      {
+         "name": "Iraq ",
+         "value": 26783383
+      },
+      {
+         "name": "Israel ",
+         "value": 6352117
+      },
+      {
+         "name": "Jordan ",
+         "value": 5906760
+      },
+      {
+         "name": "Kuwait ",
+         "value": 2418393
+      },
+      {
+         "name": "Lebanon ",
+         "value": 3874050
+      },
+      {
+         "name": "Oman ",
+         "value": 3102229
+      },
+      {
+         "name": "Qatar ",
+         "value": 885359
+      },
+      {
+         "name": "Saudi Arabia ",
+         "value": 27019731
+      },
+      {
+         "name": "Syria ",
+         "value": 18881361
+      },
+      {
+         "name": "Turkey ",
+         "value": 70413958
+      },
+      {
+         "name": "United Arab Emirates ",
+         "value": 2602713
+      },
+      {
+         "name": "West Bank ",
+         "value": 2460492
+      },
+      {
+         "name": "Yemen ",
+         "value": 21456188
+      }
+   ]
+},
+   {"name": "Northern Africa", "type": "continent", "children": [
+      {
+         "name": "Algeria ",
+         "value": 32930091
+      },
+      {
+         "name": "Egypt ",
+         "value": 78887007
+      },
+      {
+         "name": "Libya ",
+         "value": 5900754
+      },
+      {
+         "name": "Morocco ",
+         "value": 33241259
+      },
+      {
+         "name": "Tunisia ",
+         "value": 10175014
+      },
+      {
+         "name": "Western Sahara ",
+         "value": 273008
+      }
+   ]
+},
+   {"name": "North Amer", "type": "continent", "children": [
+      {
+         "name": "Bermuda ",
+         "value": 65773
+      },
+      {
+         "name": "Canada ",
+         "value": 33098932
+      },
+      {
+         "name": "Greenland ",
+         "value": 56361
+      },
+      {
+         "name": "St Pierre & Miquelon ",
+         "value": 7026
+      },
+      {
+         "name": "United States ",
+         "value": 298444215
+      }
+   ]
+},
+   {"name": "Oceania", "type": "continent", "children": [
+      {
+         "name": "American Samoa ",
+         "value": 57794
+      },
+      {
+         "name": "Australia ",
+         "value": 20264082
+      },
+      {
+         "name": "Cook Islands ",
+         "value": 21388
+      },
+      {
+         "name": "Fiji ",
+         "value": 905949
+      },
+      {
+         "name": "French Polynesia ",
+         "value": 274578
+      },
+      {
+         "name": "Guam ",
+         "value": 171019
+      },
+      {
+         "name": "Kiribati ",
+         "value": 105432
+      },
+      {
+         "name": "Marshall Islands ",
+         "value": 60422
+      },
+      {
+         "name": "Micronesia, Fed. St. ",
+         "value": 108004
+      },
+      {
+         "name": "Nauru ",
+         "value": 13287
+      },
+      {
+         "name": "New Caledonia ",
+         "value": 219246
+      },
+      {
+         "name": "New Zealand ",
+         "value": 4076140
+      },
+      {
+         "name": "N. Mariana Islands ",
+         "value": 82459
+      },
+      {
+         "name": "Palau ",
+         "value": 20579
+      },
+      {
+         "name": "Papua New Guinea ",
+         "value": 5670544
+      },
+      {
+         "name": "Samoa ",
+         "value": 176908
+      },
+      {
+         "name": "Solomon Islands ",
+         "value": 552438
+      },
+      {
+         "name": "Tonga ",
+         "value": 114689
+      },
+      {
+         "name": "Tuvalu ",
+         "value": 11810
+      },
+      {
+         "name": "Vanuatu ",
+         "value": 208869
+      },
+      {
+         "name": "Wallis and Futuna ",
+         "value": 16025
+      }
+   ]
+},
+   {"name": "Sub-Saharan Africa", "type": "continent", "children": [
+      {
+         "name": "Angola ",
+         "value": 12127071
+      },
+      {
+         "name": "Benin ",
+         "value": 7862944
+      },
+      {
+         "name": "Botswana ",
+         "value": 1639833
+      },
+      {
+         "name": "Burkina Faso ",
+         "value": 13902972
+      },
+      {
+         "name": "Burundi ",
+         "value": 8090068
+      },
+      {
+         "name": "Cameroon ",
+         "value": 17340702
+      },
+      {
+         "name": "Cape Verde ",
+         "value": 420979
+      },
+      {
+         "name": "Central African Rep. ",
+         "value": 4303356
+      },
+      {
+         "name": "Chad ",
+         "value": 9944201
+      },
+      {
+         "name": "Comoros ",
+         "value": 690948
+      },
+      {
+         "name": "Congo, Dem. Rep. ",
+         "value": 62660551
+      },
+      {
+         "name": "Congo, Repub. of the ",
+         "value": 3702314
+      },
+      {
+         "name": "Cote d'Ivoire ",
+         "value": 17654843
+      },
+      {
+         "name": "Djibouti ",
+         "value": 486530
+      },
+      {
+         "name": "Equatorial Guinea ",
+         "value": 540109
+      },
+      {
+         "name": "Eritrea ",
+         "value": 4786994
+      },
+      {
+         "name": "Ethiopia ",
+         "value": 74777981
+      },
+      {
+         "name": "Gabon ",
+         "value": 1424906
+      },
+      {
+         "name": "Gambia, The ",
+         "value": 1641564
+      },
+      {
+         "name": "Ghana ",
+         "value": 22409572
+      },
+      {
+         "name": "Guinea ",
+         "value": 9690222
+      },
+      {
+         "name": "Guinea-Bissau ",
+         "value": 1442029
+      },
+      {
+         "name": "Kenya ",
+         "value": 34707817
+      },
+      {
+         "name": "Lesotho ",
+         "value": 2022331
+      },
+      {
+         "name": "Liberia ",
+         "value": 3042004
+      },
+      {
+         "name": "Madagascar ",
+         "value": 18595469
+      },
+      {
+         "name": "Malawi ",
+         "value": 13013926
+      },
+      {
+         "name": "Mali ",
+         "value": 11716829
+      },
+      {
+         "name": "Mauritania ",
+         "value": 3177388
+      },
+      {
+         "name": "Mauritius ",
+         "value": 1240827
+      },
+      {
+         "name": "Mayotte ",
+         "value": 201234
+      },
+      {
+         "name": "Mozambique ",
+         "value": 19686505
+      },
+      {
+         "name": "Namibia ",
+         "value": 2044147
+      },
+      {
+         "name": "Niger ",
+         "value": 12525094
+      },
+      {
+         "name": "Nigeria ",
+         "value": 131859731
+      },
+      {
+         "name": "Reunion ",
+         "value": 787584
+      },
+      {
+         "name": "Rwanda ",
+         "value": 8648248
+      },
+      {
+         "name": "Saint Helena ",
+         "value": 7502
+      },
+      {
+         "name": "Sao Tome & Principe ",
+         "value": 193413
+      },
+      {
+         "name": "Senegal ",
+         "value": 11987121
+      },
+      {
+         "name": "Seychelles ",
+         "value": 81541
+      },
+      {
+         "name": "Sierra Leone ",
+         "value": 6005250
+      },
+      {
+         "name": "Somalia ",
+         "value": 8863338
+      },
+      {
+         "name": "South Africa ",
+         "value": 44187637
+      },
+      {
+         "name": "Sudan ",
+         "value": 41236378
+      },
+      {
+         "name": "Swaziland ",
+         "value": 1136334
+      },
+      {
+         "name": "Tanzania ",
+         "value": 37445392
+      },
+      {
+         "name": "Togo ",
+         "value": 5548702
+      },
+      {
+         "name": "Uganda ",
+         "value": 28195754
+      },
+      {
+         "name": "Zambia ",
+         "value": 11502010
+      },
+      {
+         "name": "Zimbabwe ",
+         "value": 12236805
+      }
+   ]
+},
+   {"name": "Western Europe", "type": "continent", "children": [
+      {
+         "name": "Andorra ",
+         "value": 71201
+      },
+      {
+         "name": "Austria ",
+         "value": 8192880
+      },
+      {
+         "name": "Belgium ",
+         "value": 10379067
+      },
+      {
+         "name": "Denmark ",
+         "value": 5450661
+      },
+      {
+         "name": "Faroe Islands ",
+         "value": 47246
+      },
+      {
+         "name": "Finland ",
+         "value": 5231372
+      },
+      {
+         "name": "France ",
+         "value": 60876136
+      },
+      {
+         "name": "Germany ",
+         "value": 82422299
+      },
+      {
+         "name": "Gibraltar ",
+         "value": 27928
+      },
+      {
+         "name": "Greece ",
+         "value": 10688058
+      },
+      {
+         "name": "Guernsey ",
+         "value": 65409
+      },
+      {
+         "name": "Iceland ",
+         "value": 299388
+      },
+      {
+         "name": "Ireland ",
+         "value": 4062235
+      },
+      {
+         "name": "Isle of Man ",
+         "value": 75441
+      },
+      {
+         "name": "Italy ",
+         "value": 58133509
+      },
+      {
+         "name": "Jersey ",
+         "value": 91084
+      },
+      {
+         "name": "Liechtenstein ",
+         "value": 33987
+      },
+      {
+         "name": "Luxembourg ",
+         "value": 474413
+      },
+      {
+         "name": "Malta ",
+         "value": 400214
+      },
+      {
+         "name": "Monaco ",
+         "value": 32543
+      },
+      {
+         "name": "Netherlands ",
+         "value": 16491461
+      },
+      {
+         "name": "Norway ",
+         "value": 4610820
+      },
+      {
+         "name": "Portugal ",
+         "value": 10605870
+      },
+      {
+         "name": "San Marino ",
+         "value": 29251
+      },
+      {
+         "name": "Spain ",
+         "value": 40397842
+      },
+      {
+         "name": "Sweden ",
+         "value": 9016596
+      },
+      {
+         "name": "Switzerland ",
+         "value": 7523934
+      },
+      {
+         "name": "United Kingdom ",
+         "value": 60609153
+      }
+   ]
+}
+]
+}

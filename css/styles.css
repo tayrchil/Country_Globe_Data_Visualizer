@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #555;
+}
+
+/*.visualizationHolder {*/
+   /*float: right;*/
+/*}*/
+
+#globe {
+    cursor: move;
+    /*float: left;*/
+}
+
+
+#current {
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 15%;
+    margin-top: 4%;
+}
+
+.y {
+    fill: #F4F4F4;
+}
+.searchHolder {
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+#search {
+    width: 150px;
+    height: 30px;
+}
+
+label {
+    color: #ececec;
+}
+
+#searchPopulation {
+    width: 250px;
+    background-color: white;
+    position: absolute;
+    box-shadow: 4px 5px 10px #191919;
+    transition: 0.5s;
+    overflow: scroll;
+    height: 0;
+}
+
+.queryResultsHolder {
+    padding: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.28);
+    transition: 0.5s;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.queryResultsHolder p {
+    width: 80%;
+}
+
+.queryResultsHolder:hover {
+    cursor: pointer;
+    background-color: lightblue;
+    transition: 0.5s;
+}
+
+.button {
+    background-color: #212121;
+    color: white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 100px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 1px 6px rgba(0, 0, 0, 0.23);
+    transition: border-radius, 0.5s;
+}
+
+.view {
+    fill: url(#gradient);
+    stroke: #000;
+}
+.bar {
+    fill: steelblue;
+}
+
+.bar:hover {
+    fill: brown;
+}
+
+.axis--x path {
+    display: none;
+}
+
+
+table {
+    visibility: hidden;
+    position: absolute;
+    top: 370px;
+    left: 300px;
+    font-family: sans-serif;
+    font-size: 0.7em;
+}
+
+tr:nth-child(even) {
+    background-color: #d9d9d9;
+}
+
+.brushed {
+    fill: #ff3399;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.non_brushed {
+    fill: #404040;
+    opacity: 0.5;
+}
+
+/*.y_axis {*/
+    /*fill: red;*/
+/*}*/
+
+table {
+    background-color: white;
+}
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    padding: 2px;
+    font: 11px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+
+.axis text {
+    font: 10px sans-serif;
+}
+
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #f4f4f4;
+    stroke-width: 1.5;
+    shape-rendering: crispEdges;
+}
+
+.x.axis path {
+    display: none;
+}
+
+circle {
+    transition: 0.5s;
+
+}
+
+rect {
+    transition: 0.5s;
+}
+
+<!-- style code for treemap-->
+     #chart2 {
+         max-width: 100%;
+
+         overflow:auto;
+     }
+text {
+    pointer-events: none;
+}
+.grandparent text {
+    font-weight: bold;
+}
+rect {
+    stroke: #fff;
+    stroke-width: 1px;
+}
+rect.parent,
+.grandparent rect {
+    stroke-width: 3px;
+}
+.grandparent:hover rect {
+    fill: grey;
+}
+.children rect.parent,
+.grandparent rect {
+    cursor: pointer;
+}
+.children rect.child {
+    opacity: 0;
+}
+.children rect.parent {
+}
+.children:hover rect.child {
+    opacity: 1;
+    stroke-width: 1px;
+}
+.children:hover rect.parent {
+    opacity: 0;
+}
+.legend {
+    margin-bottom:8px !important;
+}
+.legend rect {
+    stroke-width: 0px;
+}
+.legend text {
+    text-anchor: middle;
+    pointer-events: auto;
+    font-size: 13px;
+    font-family: sans-serif;
+    fill: #F4F4F4;
+}
+.form-group {
+    text-align:left;
+}
+.textdiv {
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    padding: 7px;
+    cursor: pointer;
+    overflow:none;
+}
+.textdiv .title {
+    font-size: 102%;
+    font-weight: bold;
+    margin-top: 8px;
+    font-size:11px !important;
+}
+.textdiv p{
+    line-height: 13px;
+    margin:0 0 4px !important;
+    padding:0px;
+    font-size:10px !important;
+}
